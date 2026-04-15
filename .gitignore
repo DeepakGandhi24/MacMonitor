@@ -1,25 +1,9 @@
-# Xcode
 *.xcuserstate
-*.xccheckout
 xcuserdata/
 DerivedData/
-*.moved-aside
+.DS_Store
+build/
 *.pbxuser
 *.mode1v3
 *.mode2v3
 *.perspectivev3
-*.orig
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Build
-build/
-*.o
-*.d
-
-# Credentials — never commit these
-*.pem
-*.p12
